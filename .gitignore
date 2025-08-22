@@ -175,10 +175,14 @@ pyrightconfig.json
 
 # 개인적인 메모
 자체평가.txt
-dataset.txt
+PPT작성용.txt
 SJAS_PPT.pptx
 
 # 정제된 엑셀파일
 sales_data_for_pivot.xlsx
+리포트.xlsb
+
+# python 코드 실행 배치파일
+정제데이터생성.bat
 
 # End of https://www.toptal.com/developers/gitignore/api/python
