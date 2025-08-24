@@ -78,3 +78,6 @@ if __name__ == "__main__":
 ```bash
 python dataset.py
 ```
+
+<hr>
+시연영상 : <a href="[https://youtu.be/QI05J3-H4-w](https://youtu.be/xUh4tZxaZHY?si=12hAZlnjLG6sW15F)" target="_blank">프로젝트 시연영상</a>
